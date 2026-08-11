@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.029,
+  "time": 0.026,
   "errors": [],
   "tasks": [
     {
@@ -42,13 +42,13 @@
         "scheme": "file",
         "title": "Case Mix",
         "stats": {
-          "hash": "0625e9117154ced0aa856fad6743a680",
-          "bytes": 15451,
+          "hash": "a2356260cbecac9751c36817bc5541c4",
+          "bytes": 15616,
           "fields": 4,
-          "rows": 751
+          "rows": 760
         }
       },
-      "time": 0.02,
+      "time": 0.018,
       "scope": [
         "hash-count-error",
         "byte-count-error",
