@@ -11,8 +11,8 @@
       "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
-      "name": "case-mix-2025",
-      "path": "data/case-mix-2025.csv",
+      "name": "case-mix",
+      "path": "data/case-mix.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
